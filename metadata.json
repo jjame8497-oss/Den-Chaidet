@@ -1,0 +1,6 @@
+{
+  "name": "Den Chaidet Portfolio",
+  "description": "A professional, responsive portfolio website for Den Chaidet, a first-year Digital Economy student specializing in digital technology and web development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
